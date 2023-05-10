@@ -3084,9 +3084,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"angulareslintyarntest@workspace:.":
+"angulareslintyarntest@workspace:angular":
   version: 0.0.0-use.local
-  resolution: "angulareslintyarntest@workspace:."
+  resolution: "angulareslintyarntest@workspace:angular"
   dependencies:
     "@angular-devkit/build-angular": ^16.0.0
     "@angular-eslint/builder": 16.0.1
@@ -8435,6 +8435,12 @@ __metadata:
   checksum: dfe2e4002fbfbc0a67591595f137c23082c639b1a790854ebe8611264b945e77caaf8c8ec9365faf9580f5df9cb9a954915443df020dc2ee391c477659484cf0
   languageName: node
   linkType: hard
+
+"root@workspace:.":
+  version: 0.0.0-use.local
+  resolution: "root@workspace:."
+  languageName: unknown
+  linkType: soft
 
 "run-async@npm:^2.4.0":
   version: 2.4.1

@@ -5,7 +5,8 @@
     "packageManager": "yarn",
     "schematicCollections": [
       "@angular-eslint/schematics"
-    ]
+    ],
+    "analytics": "c39fb192-9988-4873-af0e-326986ca2601"
   },
   "newProjectRoot": "projects",
   "projects": {
